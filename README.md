@@ -1,2 +1,2 @@
-# DevOps_Demo
-https://github.com/SystemicEmotions/demoapp
+# DevOps_Demo_IDMC
+
