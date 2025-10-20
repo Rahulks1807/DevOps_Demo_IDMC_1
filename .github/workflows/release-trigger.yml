@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - 'release/uat'
-      - 'release/psup'
+      - 'release/pre-prod'
       - 'release/prod'
 
 jobs:
